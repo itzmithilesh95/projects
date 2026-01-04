@@ -1,5 +1,5 @@
-/***************** Item Page CSS **************************/
-/*.action_container {
+
+.action_container {
     text-decoration: none;
 }
 a.action_container:link {
@@ -84,7 +84,15 @@ a.action_container:link {
     top: -44px;
     font-weight: 700;
     cursor: pointer;
-}*/
+}
+
+
+
+
+
+
+
+
 
 * {
     margin: 0;
